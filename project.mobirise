@@ -56,7 +56,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 88,
+    "uniqCompNum": 90,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -1068,6 +1068,19 @@
                 "active": false
               },
               {
+                "tags": "Animata",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/metallico-3-695x491.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/metallico-3-695x491-556x371.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Particular Effect<br>Enter",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1081,16 +1094,16 @@
                 "active": false
               },
               {
-                "tags": "Animata",
+                "tags": "Eccezionale",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/metallico-3-695x491.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/metallico-3-695x491-556x371.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pietra-738x492.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pietra-738x492-738x492.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Particular Effect<br>Enter",
+                "caption": "Stone Effect<br>Enter",
                 "active": true
               },
               {
@@ -1103,20 +1116,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Texture Effect<br>Enter",
-                "active": false
-              },
-              {
-                "tags": "Eccezionale",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/pietra-738x492.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pietra-738x492-738x492.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Stone Effect<br>Enter",
+                "caption": "Mosaic Effect<br>Enter",
                 "active": false
               }
             ]
