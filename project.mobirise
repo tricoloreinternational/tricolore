@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1064,7 +1064,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Cementer Effect<br>Enter",
+                "caption": "Concrete Effect<br>Enter",
                 "active": false
               },
               {
@@ -1116,7 +1116,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Mosaic Effect<br>Enter",
+                "caption": "Fabric Effect<br>Enter",
                 "active": false
               }
             ]
