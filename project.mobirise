@@ -1098,19 +1098,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/pietra-738x492.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pietra-738x492-738x492.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Stone Effect<br>Enter",
-                "active": true
-              },
-              {
-                "tags": "Eccezionale",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/tessuto-2-963x674.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tessuto-2-963x674-615x407.jpg",
                 "alt": "",
@@ -1118,6 +1105,19 @@
                 "customStyle1": "display-7",
                 "caption": "Fabric Effect<br>Enter",
                 "active": false
+              },
+              {
+                "tags": "Eccezionale",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pietra-738x492.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pietra-738x492-738x492.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Stone Effect<br>Enter",
+                "active": true
               }
             ]
           }
