@@ -1966,71 +1966,85 @@ body {
 .cid-r2omnRdhdw .mbr-section-subtitle {
   color: #767676;
 }
-.cid-r2oBHToWmu {
-  padding-top: 15px;
-  padding-bottom: 45px;
+.cid-rbom8BddHy {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-r2oBHToWmu .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rbom8BddHy .card-img {
+  background-color: #fff;
 }
-.cid-r2oBHToWmu .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rbom8BddHy .card-box {
+  padding: 2rem;
+  background-color: #efefef;
 }
-.cid-r2oBHToWmu .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-rbom8BddHy h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-r2oBHToWmu .mbr-slider .modal-body .close {
-  background: #1b1b1b;
+.cid-rbom8BddHy p {
+  text-align: left;
 }
-.cid-r2oBHToWmu .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-rbom8BddHy .mbr-text {
+  color: #767676;
+}
+.cid-rbom8BddHy .card-wrapper {
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-r2oBHToWmu .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
+.cid-rbom8BddHy .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
-.cid-r2oBHToWmu .mbr-gallery-item > div:hover:before {
-  opacity: 0.3 !important;
+@media (min-width: 992px) {
+  .cid-rbom8BddHy .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
-.cid-r2oBHToWmu .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
+.cid-rbom9RDJBn {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-r2oBHToWmu .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
+.cid-rbom9RDJBn .card-img {
+  background-color: #fff;
+}
+.cid-rbom9RDJBn .card-box {
+  padding: 2rem;
+  background-color: #efefef;
+}
+.cid-rbom9RDJBn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rbom9RDJBn p {
+  text-align: left;
+}
+.cid-rbom9RDJBn .mbr-text {
+  color: #767676;
+}
+.cid-rbom9RDJBn .card-wrapper {
   height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0.3;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-r2oBHToWmu .mbr-gallery-item > div > span {
-  color: #232323;
-  text-align: center;
+.cid-rbom9RDJBn .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rbom9RDJBn .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
 }
 .cid-r2C0aqSUmj {
   background-image: url("../../../assets/images/sfondo-promozioni-1124x471.jpg");
